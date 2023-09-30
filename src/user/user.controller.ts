@@ -4,6 +4,6 @@ import { Controller, Get } from '@nestjs/common';
 export class UserController {
   @Get()
   async getAllUsers() {
-    return JSON.stringify({ test: 'abc' });
+    return JSON.stringify({ test: 'abd' });
   }
 }
