@@ -3,7 +3,8 @@ import { MigrationInterface, QueryRunner } from 'typeorm';
 export class CreateTableUser1698276172196 implements MigrationInterface {
   public async up(queryRunner: QueryRunner): Promise<void> {
     queryRunner.query(`
-            CREATE TABLE public.user (
+
+    CREATE TABLE public.user (
             id INTEGER NOT NULL,
             name VARCHAR NOT NULL,
             email VARCHAR NOT NULL,
@@ -16,7 +17,7 @@ export class CreateTableUser1698276172196 implements MigrationInterface {
             primary key (id)
 );
 
-        CREATE SEQUENCE public.user_id_seq
+    CREATE SEQUENCE public.user_id_seq
 
             AS integer
             START WITH 1
@@ -25,9 +26,9 @@ export class CreateTableUser1698276172196 implements MigrationInterface {
             NO MAXVALUE
             CACHE 1;
 
-        ALTER SEQUENCE public.user_id_seq OWNED BY public.user.Id;
+    ALTER SEQUENCE public.user_id_seq OWNED BY public.user.Id;
 
-        ALTER TABLE ONLY public.user ALTER COLUMN id SET DEFAULT nextval('public.user_id_seq'::regclass);
+    ALTER TABLE ONLY public.user ALTER COLUMN id SET DEFAULT nextval('public.user_id_seq'::regclass);
        `);
   }
 
