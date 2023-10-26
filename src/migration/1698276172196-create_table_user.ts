@@ -2,9 +2,7 @@ import { MigrationInterface, QueryRunner } from 'typeorm';
 
 export class CreateTableUser1698276172196 implements MigrationInterface {
   public async up(queryRunner: QueryRunner): Promise<void> {
-    queryRunner.query;
-    {
-      `
+    queryRunner.query(`
             CREATE TABLE public.user (
             id INTEGER NOT NULL,
             name VARCHAR NOT NULL,
@@ -27,21 +25,16 @@ export class CreateTableUser1698276172196 implements MigrationInterface {
             NO MAXVALUE
             CACHE 1;
 
-        ALTER SEQUENCE public.user_id_seq OWNED BY public.user_id_seq;
+        ALTER SEQUENCE public.user_id_seq OWNED BY public.user.Id;
 
-        ALTER TABLE ONLY public.user ALTER COLUMN id SET DEFAULT nextval('user_id_seq'::regclass);
-    
-
-       `;
-    }
+        ALTER TABLE ONLY public.user ALTER COLUMN id SET DEFAULT nextval('public.user_id_seq'::regclass);
+       `);
   }
 
   public async down(queryRunner: QueryRunner): Promise<void> {
-    queryRunner.query;
-    {
-      `
-        DROP TABLE public.user;
-      `;
-    }
+    queryRunner.query(`
+     DROP TABLE public.user 
+      
+    `);
   }
 }
