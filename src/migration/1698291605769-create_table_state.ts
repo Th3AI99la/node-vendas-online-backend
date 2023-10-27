@@ -21,7 +21,7 @@ export class CreateTableState1698291605769 implements MigrationInterface {
         NO MAXVALUE
         CACHE 1;
 
-    ALTER SEQUENCE public.state_id_seq OWNED BY public.state.Id;
+    ALTER SEQUENCE public.state_id_seq OWNED BY public.state.id;
 
     ALTER TABLE ONLY public.state ALTER COLUMN id SET DEFAULT nextval('public.state_id_seq'::regclass);
      

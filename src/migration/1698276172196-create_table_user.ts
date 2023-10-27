@@ -26,7 +26,7 @@ export class CreateTableUser1698276172196 implements MigrationInterface {
             NO MAXVALUE
             CACHE 1;
 
-    ALTER SEQUENCE public.user_id_seq OWNED BY public.user.Id;
+    ALTER SEQUENCE public.user_id_seq OWNED BY public.user.id;
 
     ALTER TABLE ONLY public.user ALTER COLUMN id SET DEFAULT nextval('public.user_id_seq'::regclass);
        `);
