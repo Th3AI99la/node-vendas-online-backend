@@ -163,9 +163,9 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (158, 'Monteirópolis', 2);
             INSERT INTO city("id", "name", "state_id") VALUES (159, 'Murici', 2);
             INSERT INTO city("id", "name", "state_id") VALUES (160, 'Novo Lino', 2);
-            INSERT INTO city("id", "name", "state_id") VALUES (161, 'Olho d' Água das Flores', 2);
-            INSERT INTO city("id", "name", "state_id") VALUES (162, 'Olho d' Água do Casado', 2);
-            INSERT INTO city("id", "name", "state_id") VALUES (163, 'Olho d' Água Grande', 2);
+            INSERT INTO city("id", "name", "state_id") VALUES (161, 'Olho d\`Água das Flores', 2);
+            INSERT INTO city("id", "name", "state_id") VALUES (162, 'Olho d\`Água do Casado', 2);
+            INSERT INTO city("id", "name", "state_id") VALUES (163, 'Olho d\`Água Grande', 2);
             INSERT INTO city("id", "name", "state_id") VALUES (164, 'Olivença', 2);
             INSERT INTO city("id", "name", "state_id") VALUES (165, 'Ouro Branco', 2);
             INSERT INTO city("id", "name", "state_id") VALUES (166, 'Palestina', 2);
@@ -199,7 +199,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (194, 'São Sebastião', 2);
             INSERT INTO city("id", "name", "state_id") VALUES (195, 'Satuba', 2);
             INSERT INTO city("id", "name", "state_id") VALUES (196, 'Senador Rui Palmeira', 2);
-            INSERT INTO city("id", "name", "state_id") VALUES (197, 'Tanque d'Arca', 2);
+            INSERT INTO city("id", "name", "state_id") VALUES (197, 'Tanque d\`Arca', 2);
             INSERT INTO city("id", "name", "state_id") VALUES (198, 'Taquarana', 2);
             INSERT INTO city("id", "name", "state_id") VALUES (199, 'Teotônio Vilela', 2);
             INSERT INTO city("id", "name", "state_id") VALUES (200, 'Traipu', 2);
@@ -322,8 +322,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (317, 'Barra do Rocha', 5);
             INSERT INTO city("id", "name", "state_id") VALUES (318, 'Barreiras', 5);
             INSERT INTO city("id", "name", "state_id") VALUES (319, 'Barro Alto', 5);
-            INSERT INTO city("id", "name", "state_id") VALUES (320, 'Barro Preto 
-            INSERT INTO city("id", "name", "state_id") VALUES (antigo Gov. Lomanto Jr.);', 5);
+            INSERT INTO city("id", "name", "state_id") VALUES (320, 'Barro Preto INSERT INTO city("id", "name", "state_id") VALUES (antigo Gov. Lomanto Jr.);', 5);
             INSERT INTO city("id", "name", "state_id") VALUES (321, 'Barrocas', 5);
             INSERT INTO city("id", "name", "state_id") VALUES (322, 'Belmonte', 5);
             INSERT INTO city("id", "name", "state_id") VALUES (323, 'Belo Campo', 5);
@@ -402,7 +401,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (396, 'Cruz das Almas', 5);
             INSERT INTO city("id", "name", "state_id") VALUES (397, 'Curaçá', 5);
             INSERT INTO city("id", "name", "state_id") VALUES (398, 'Dário Meira', 5);
-            INSERT INTO city("id", "name", "state_id") VALUES (399, 'Dias d' Ávila', 5);
+            INSERT INTO city("id", "name", "state_id") VALUES (399, 'Dias d\`Ávila', 5);
             INSERT INTO city("id", "name", "state_id") VALUES (400, 'Dom Basílio', 5);
             INSERT INTO city("id", "name", "state_id") VALUES (401, 'Dom Macedo Costa', 5);
             INSERT INTO city("id", "name", "state_id") VALUES (402, 'Elísio Medrado', 5);
@@ -1101,7 +1100,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (1095, 'Santo Antônio do Descoberto', 9);
             INSERT INTO city("id", "name", "state_id") VALUES (1096, 'São Domingos', 9);
             INSERT INTO city("id", "name", "state_id") VALUES (1097, 'São Francisco de Goiás', 9);
-            INSERT INTO city("id", "name", "state_id") VALUES (1098, 'São João d' Aliança', 9);
+            INSERT INTO city("id", "name", "state_id") VALUES (1098, 'São João d\`Aliança', 9);
             INSERT INTO city("id", "name", "state_id") VALUES (1099, 'São João da Paraúna', 9);
             INSERT INTO city("id", "name", "state_id") VALUES (1100, 'São Luís de Montes Belos', 9);
             INSERT INTO city("id", "name", "state_id") VALUES (1101, 'São Luíz do Norte', 9);
@@ -1113,7 +1112,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (1107, 'Serranópolis', 9);
             INSERT INTO city("id", "name", "state_id") VALUES (1108, 'Silvânia', 9);
             INSERT INTO city("id", "name", "state_id") VALUES (1109, 'Simolândia', 9);
-            INSERT INTO city("id", "name", "state_id") VALUES (1110, 'Sítio d' Abadia', 9);
+            INSERT INTO city("id", "name", "state_id") VALUES (1110, 'Sítio d\`Abadia', 9);
             INSERT INTO city("id", "name", "state_id") VALUES (1111, 'Taquaral de Goiás', 9);
             INSERT INTO city("id", "name", "state_id") VALUES (1112, 'Teresina de Goiás', 9);
             INSERT INTO city("id", "name", "state_id") VALUES (1113, 'Terezópolis de Goiás', 9);
@@ -1259,7 +1258,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (1253, 'Nova Colinas', 10);
             INSERT INTO city("id", "name", "state_id") VALUES (1254, 'Nova Iorque', 10);
             INSERT INTO city("id", "name", "state_id") VALUES (1255, 'Nova Olinda do Maranhão', 10);
-            INSERT INTO city("id", "name", "state_id") VALUES (1256, 'Olho d'Água das Cunhãs', 10);
+            INSERT INTO city("id", "name", "state_id") VALUES (1256, 'Olho d\`Água das Cunhãs', 10);
             INSERT INTO city("id", "name", "state_id") VALUES (1257, 'Olinda Nova do Maranhão', 10);
             INSERT INTO city("id", "name", "state_id") VALUES (1258, 'Paço do Lumiar', 10);
             INSERT INTO city("id", "name", "state_id") VALUES (1259, 'Palmeirândia', 10);
@@ -1384,7 +1383,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (1378, 'Colniza', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1379, 'Comodoro', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1380, 'Confresa', 13);
-            INSERT INTO city("id", "name", "state_id") VALUES (1381, 'Conquista d' Oeste', 13);
+            INSERT INTO city("id", "name", "state_id") VALUES (1381, 'Conquista d\`Oeste', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1382, 'Cotriguaçu', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1383, 'Cuiabá', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1384, 'Curvelândia', 13);
@@ -1393,10 +1392,10 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (1387, 'Diamantino', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1388, 'Dom Aquino', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1389, 'Feliz Natal', 13);
-            INSERT INTO city("id", "name", "state_id") VALUES (1390, 'Figueirópolis d' Oeste', 13);
+            INSERT INTO city("id", "name", "state_id") VALUES (1390, 'Figueirópolis d\`Oeste', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1391, 'Gaúcha do Norte', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1392, 'General Carneiro', 13);
-            INSERT INTO city("id", "name", "state_id") VALUES (1393, 'Glória d' Oeste', 13);
+            INSERT INTO city("id", "name", "state_id") VALUES (1393, 'Glória d\`Oeste', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1394, 'Guarantã do Norte', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1395, 'Guiratinga', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1396, 'Indiavaí', 13);
@@ -1411,12 +1410,12 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (1405, 'Juína', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1406, 'Juruena', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1407, 'Juscimeira', 13);
-            INSERT INTO city("id", "name", "state_id") VALUES (1408, 'Lambari d' Oeste', 13);
+            INSERT INTO city("id", "name", "state_id") VALUES (1408, 'Lambari d\`Oeste', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1409, 'Lucas do Rio Verde', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1410, 'Luciára', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1411, 'Marcelândia', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1412, 'Matupá', 13);
-            INSERT INTO city("id", "name", "state_id") VALUES (1413, 'Mirassol d' Oeste', 13);
+            INSERT INTO city("id", "name", "state_id") VALUES (1413, 'Mirassol d\`Oeste', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1414, 'Nobres', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1415, 'Nortelândia', 13);
             INSERT INTO city("id", "name", "state_id") VALUES (1416, 'Nossa Senhora do Livramento', 13);
@@ -2098,7 +2097,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (2092, 'Novo Oriente de Minas', 11);
             INSERT INTO city("id", "name", "state_id") VALUES (2093, 'Novorizonte', 11);
             INSERT INTO city("id", "name", "state_id") VALUES (2094, 'Olaria', 11);
-            INSERT INTO city("id", "name", "state_id") VALUES (2095, 'Olhos-d' Água', 11);
+            INSERT INTO city("id", "name", "state_id") VALUES (2095, 'Olhos-d\`Água', 11);
             INSERT INTO city("id", "name", "state_id") VALUES (2096, 'Olímpio Noronha', 11);
             INSERT INTO city("id", "name", "state_id") VALUES (2097, 'Oliveira', 11);
             INSERT INTO city("id", "name", "state_id") VALUES (2098, 'Oliveira Fortes', 11);
@@ -2159,7 +2158,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (2153, 'Piedade do Rio Grande', 11);
             INSERT INTO city("id", "name", "state_id") VALUES (2154, 'Piedade dos Gerais', 11);
             INSERT INTO city("id", "name", "state_id") VALUES (2155, 'Pimenta', 11);
-            INSERT INTO city("id", "name", "state_id") VALUES (2156, 'Pingo-d' Água', 11);
+            INSERT INTO city("id", "name", "state_id") VALUES (2156, 'Pingo-d\`Água', 11);
             INSERT INTO city("id", "name", "state_id") VALUES (2157, 'Pintópolis', 11);
             INSERT INTO city("id", "name", "state_id") VALUES (2158, 'Piracema', 11);
             INSERT INTO city("id", "name", "state_id") VALUES (2159, 'Pirajuba', 11);
@@ -2510,7 +2509,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (2504, 'Palestina do Pará', 14);
             INSERT INTO city("id", "name", "state_id") VALUES (2505, 'Paragominas', 14);
             INSERT INTO city("id", "name", "state_id") VALUES (2506, 'Parauapebas', 14);
-            INSERT INTO city("id", "name", "state_id") VALUES (2507, 'Pau d' Arco', 14);
+            INSERT INTO city("id", "name", "state_id") VALUES (2507, 'Pau d\`Arco', 14);
             INSERT INTO city("id", "name", "state_id") VALUES (2508, 'Peixe-Boi', 14);
             INSERT INTO city("id", "name", "state_id") VALUES (2509, 'Piçarra', 14);
             INSERT INTO city("id", "name", "state_id") VALUES (2510, 'Placas', 14);
@@ -2671,7 +2670,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (2665, 'Livramento', 15);
             INSERT INTO city("id", "name", "state_id") VALUES (2666, 'Logradouro', 15);
             INSERT INTO city("id", "name", "state_id") VALUES (2667, 'Lucena', 15);
-            INSERT INTO city("id", "name", "state_id") VALUES (2668, 'Mãe d' Água', 15);
+            INSERT INTO city("id", "name", "state_id") VALUES (2668, 'Mãe d\`Água', 15);
             INSERT INTO city("id", "name", "state_id") VALUES (2669, 'Malta', 15);
             INSERT INTO city("id", "name", "state_id") VALUES (2670, 'Mamanguape', 15);
             INSERT INTO city("id", "name", "state_id") VALUES (2671, 'Manaíra', 15);
@@ -2693,7 +2692,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (2687, 'Nova Floresta', 15);
             INSERT INTO city("id", "name", "state_id") VALUES (2688, 'Nova Olinda', 15);
             INSERT INTO city("id", "name", "state_id") VALUES (2689, 'Nova Palmeira', 15);
-            INSERT INTO city("id", "name", "state_id") VALUES (2690, 'Olho d' Água', 15);
+            INSERT INTO city("id", "name", "state_id") VALUES (2690, 'Olho d\`Água', 15);
             INSERT INTO city("id", "name", "state_id") VALUES (2691, 'Olivedos', 15);
             INSERT INTO city("id", "name", "state_id") VALUES (2692, 'Ouro Velho', 15);
             INSERT INTO city("id", "name", "state_id") VALUES (2693, 'Parari', 15);
@@ -2883,7 +2882,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (2877, 'Cruzmaltina', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (2878, 'Curitiba', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (2879, 'Curiúva', 18);
-            INSERT INTO city("id", "name", "state_id") VALUES (2880, 'Diamante d' Oeste', 18);
+            INSERT INTO city("id", "name", "state_id") VALUES (2880, 'Diamante d\`Oeste', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (2881, 'Diamante do Norte', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (2882, 'Diamante do Sul', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (2883, 'Dois Vizinhos', 18);
@@ -2947,7 +2946,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (2941, 'Itaipulândia', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (2942, 'Itambaracá', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (2943, 'Itambé', 18);
-            INSERT INTO city("id", "name", "state_id") VALUES (2944, 'Itapejara d' Oeste', 18);
+            INSERT INTO city("id", "name", "state_id") VALUES (2944, 'Itapejara d\`Oeste', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (2945, 'Itaperuçu', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (2946, 'Itaúna do Sul', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (2947, 'Ivaí', 18);
@@ -3051,7 +3050,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (3045, 'Peabiru', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3046, 'Perobal', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3047, 'Pérola', 18);
-            INSERT INTO city("id", "name", "state_id") VALUES (3048, 'Pérola d' Oeste', 18);
+            INSERT INTO city("id", "name", "state_id") VALUES (3048, 'Pérola d\`Oeste', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3049, 'Piên', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3050, 'Pinhais', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3051, 'Pinhal de São Bento', 18);
@@ -3085,7 +3084,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (3079, 'Quitandinha', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3080, 'Ramilândia', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3081, 'Rancho Alegre', 18);
-            INSERT INTO city("id", "name", "state_id") VALUES (3082, 'Rancho Alegre d' Oeste', 18);
+            INSERT INTO city("id", "name", "state_id") VALUES (3082, 'Rancho Alegre d\`Oeste', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3083, 'Realeza', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3084, 'Rebouças', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3085, 'Renascença', 18);
@@ -3133,7 +3132,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (3127, 'São João do Caiuá', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3128, 'São João do Ivaí', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3129, 'São João do Triunfo', 18);
-            INSERT INTO city("id", "name", "state_id") VALUES (3130, 'São Jorge d' Oeste', 18);
+            INSERT INTO city("id", "name", "state_id") VALUES (3130, 'São Jorge d\`Oeste', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3131, 'São Jorge do Ivaí', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3132, 'São Jorge do Patrocínio', 18);
             INSERT INTO city("id", "name", "state_id") VALUES (3133, 'São José da Boa Vista', 18);
@@ -3389,7 +3388,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (3383, 'Assunção do Piauí', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3384, 'Avelino Lopes', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3385, 'Baixa Grande do Ribeiro', 17);
-            INSERT INTO city("id", "name", "state_id") VALUES (3386, 'Barra d' Alcântara', 17);
+            INSERT INTO city("id", "name", "state_id") VALUES (3386, 'Barra d\`Alcântara', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3387, 'Barras', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3388, 'Barreiras do Piauí', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3389, 'Barro Duro', 17);
@@ -3513,7 +3512,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (3507, 'Novo Oriente do Piauí', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3508, 'Novo Santo Antônio', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3509, 'Oeiras', 17);
-            INSERT INTO city("id", "name", "state_id") VALUES (3510, 'Olho d' Água do Piauí', 17);
+            INSERT INTO city("id", "name", "state_id") VALUES (3510, 'Olho d\`Água do Piauí', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3511, 'Padre Marcos', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3512, 'Paes Landim', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3513, 'Pajeú do Piauí', 17);
@@ -3524,7 +3523,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (3518, 'Parnaíba', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3519, 'Passagem Franca do Piauí', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3520, 'Patos do Piauí', 17);
-            INSERT INTO city("id", "name", "state_id") VALUES (3521, 'Pau d' Arco do Piauí', 17);
+            INSERT INTO city("id", "name", "state_id") VALUES (3521, 'Pau d\`Arco do Piauí', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3522, 'Paulistana', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3523, 'Pavussu', 17);
             INSERT INTO city("id", "name", "state_id") VALUES (3524, 'Pedro II', 17);
@@ -3753,7 +3752,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (3747, 'José da Penha', 20);
             INSERT INTO city("id", "name", "state_id") VALUES (3748, 'Jucurutu', 20);
             INSERT INTO city("id", "name", "state_id") VALUES (3749, 'Jundiá', 20);
-            INSERT INTO city("id", "name", "state_id") VALUES (3750, 'Lagoa d' Anta', 20);
+            INSERT INTO city("id", "name", "state_id") VALUES (3750, 'Lagoa d\`Anta', 20);
             INSERT INTO city("id", "name", "state_id") VALUES (3751, 'Lagoa de Pedras', 20);
             INSERT INTO city("id", "name", "state_id") VALUES (3752, 'Lagoa de Velhos', 20);
             INSERT INTO city("id", "name", "state_id") VALUES (3753, 'Lagoa Nova', 20);
@@ -3776,7 +3775,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (3770, 'Natal', 20);
             INSERT INTO city("id", "name", "state_id") VALUES (3771, 'Nísia Floresta', 20);
             INSERT INTO city("id", "name", "state_id") VALUES (3772, 'Nova Cruz', 20);
-            INSERT INTO city("id", "name", "state_id") VALUES (3773, 'Olho-d' Água do Borges', 20);
+            INSERT INTO city("id", "name", "state_id") VALUES (3773, 'Olho-d\`Água do Borges', 20);
             INSERT INTO city("id", "name", "state_id") VALUES (3774, 'Ouro Branco', 20);
             INSERT INTO city("id", "name", "state_id") VALUES (3775, 'Paraná', 20);
             INSERT INTO city("id", "name", "state_id") VALUES (3776, 'Paraú', 20);
@@ -4349,10 +4348,10 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (4343, 'Vitória das Missões', 23);
             INSERT INTO city("id", "name", "state_id") VALUES (4344, 'Westfália', 23);
             INSERT INTO city("id", "name", "state_id") VALUES (4345, 'Xangri-lá', 23);
-            INSERT INTO city("id", "name", "state_id") VALUES (4346, 'Alta Floresta d' Oeste', 21);
+            INSERT INTO city("id", "name", "state_id") VALUES (4346, 'Alta Floresta d\`Oeste', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4347, 'Alto Alegre dos Parecis', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4348, 'Alto Paraíso', 21);
-            INSERT INTO city("id", "name", "state_id") VALUES (4349, 'Alvorada d' Oeste', 21);
+            INSERT INTO city("id", "name", "state_id") VALUES (4349, 'Alvorada d\`Oeste', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4350, 'Ariquemes', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4351, 'Buritis', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4352, 'Cabixi', 21);
@@ -4367,17 +4366,17 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (4361, 'Corumbiara', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4362, 'Costa Marques', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4363, 'Cujubim', 21);
-            INSERT INTO city("id", "name", "state_id") VALUES (4364, 'Espigão d' Oeste', 21);
+            INSERT INTO city("id", "name", "state_id") VALUES (4364, 'Espigão d\`Oeste', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4365, 'Governador Jorge Teixeira', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4366, 'Guajará-Mirim', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4367, 'Itapuã do Oeste', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4368, 'Jaru', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4369, 'Ji-Paraná', 21);
-            INSERT INTO city("id", "name", "state_id") VALUES (4370, 'Machadinho d' Oeste', 21);
+            INSERT INTO city("id", "name", "state_id") VALUES (4370, 'Machadinho d\`Oeste', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4371, 'Ministro Andreazza', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4372, 'Mirante da Serra', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4373, 'Monte Negro', 21);
-            INSERT INTO city("id", "name", "state_id") VALUES (4374, 'Nova Brasilândia d' Oeste', 21);
+            INSERT INTO city("id", "name", "state_id") VALUES (4374, 'Nova Brasilândia d\`Oeste', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4375, 'Nova Mamoré', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4376, 'Nova União', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4377, 'Novo Horizonte do Oeste', 21);
@@ -4390,8 +4389,8 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (4384, 'Primavera de Rondônia', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4385, 'Rio Crespo', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4386, 'Rolim de Moura', 21);
-            INSERT INTO city("id", "name", "state_id") VALUES (4387, 'Santa Luzia d' Oeste', 21);
-            INSERT INTO city("id", "name", "state_id") VALUES (4388, 'São Felipe d' Oeste', 21);
+            INSERT INTO city("id", "name", "state_id") VALUES (4387, 'Santa Luzia d\`Oeste', 21);
+            INSERT INTO city("id", "name", "state_id") VALUES (4388, 'São Felipe d\`Oeste', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4389, 'São Francisco do Guaporé', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4390, 'São Miguel do Guaporé', 21);
             INSERT INTO city("id", "name", "state_id") VALUES (4391, 'Seringueiras', 21);
@@ -4520,7 +4519,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (4514, 'Guaramirim', 24);
             INSERT INTO city("id", "name", "state_id") VALUES (4515, 'Guarujá do Sul', 24);
             INSERT INTO city("id", "name", "state_id") VALUES (4516, 'Guatambú', 24);
-            INSERT INTO city("id", "name", "state_id") VALUES (4517, 'Herval d' Oeste', 24);
+            INSERT INTO city("id", "name", "state_id") VALUES (4517, 'Herval d\`Oeste', 24);
             INSERT INTO city("id", "name", "state_id") VALUES (4518, 'Ibiam', 24);
             INSERT INTO city("id", "name", "state_id") VALUES (4519, 'Ibicaré', 24);
             INSERT INTO city("id", "name", "state_id") VALUES (4520, 'Ibirama', 24);
@@ -4737,7 +4736,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (4731, 'Anhembi', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4732, 'Anhumas', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4733, 'Aparecida', 26);
-            INSERT INTO city("id", "name", "state_id") VALUES (4734, 'Aparecida d' Oeste', 26);
+            INSERT INTO city("id", "name", "state_id") VALUES (4734, 'Aparecida d\`Oeste', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4735, 'Apiaí', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4736, 'Araçariguama', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4737, 'Araçatuba', 26);
@@ -4884,7 +4883,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (4878, 'Espírito Santo do Pinhal', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4879, 'Espírito Santo do Turvo', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4880, 'Estiva Gerbi', 26);
-            INSERT INTO city("id", "name", "state_id") VALUES (4881, 'Estrela d' Oeste', 26);
+            INSERT INTO city("id", "name", "state_id") VALUES (4881, 'Estrela d\`Oeste', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4882, 'Estrela do Norte', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4883, 'Euclides da Cunha Paulista', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4884, 'Fartura', 26);
@@ -4915,7 +4914,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
             INSERT INTO city("id", "name", "state_id") VALUES (4909, 'Guará', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4910, 'Guaraçaí', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4911, 'Guaraci', 26);
-            INSERT INTO city("id", "name", "state_id") VALUES (4912, 'Guarani d' Oeste', 26);
+            INSERT INTO city("id", "name", "state_id") VALUES (4912, 'Guarani d\`Oeste', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4913, 'Guarantã', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4914, 'Guararapes', 26);
             INSERT INTO city("id", "name", "state_id") VALUES (4915, 'Guararema', 26);
@@ -5107,7 +5106,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
         INSERT INTO city("id", "name", "state_id") VALUES (5101, 'Pacaembu', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5102, 'Palestina', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5103, 'Palmares Paulista', 26);
-        INSERT INTO city("id", "name", "state_id") VALUES (5104, 'Palmeira d' Oeste', 26);
+        INSERT INTO city("id", "name", "state_id") VALUES (5104, 'Palmeira d\`Oeste', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5105, 'Palmital', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5106, 'Panorama', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5107, 'Paraguaçu Paulista', 26);
@@ -5224,9 +5223,9 @@ export class InsertInCity1698463534078 implements MigrationInterface {
         INSERT INTO city("id", "name", "state_id") VALUES (5218, 'Sandovalina', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5219, 'Santa Adélia', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5220, 'Santa Albertina', 26);
-        INSERT INTO city("id", "name", "state_id") VALUES (5221, 'Santa Bárbara d' Oeste', 26);
+        INSERT INTO city("id", "name", "state_id") VALUES (5221, 'Santa Bárbara d\`Oeste', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5222, 'Santa Branca', 26);
-        INSERT INTO city("id", "name", "state_id") VALUES (5223, 'Santa Clara d' Oeste', 26);
+        INSERT INTO city("id", "name", "state_id") VALUES (5223, 'Santa Clara d\`Oeste', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5224, 'Santa Cruz da Conceição', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5225, 'Santa Cruz da Esperança', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5226, 'Santa Cruz das Palmeiras', 26);
@@ -5238,7 +5237,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
         INSERT INTO city("id", "name", "state_id") VALUES (5232, 'Santa Lúcia', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5233, 'Santa Maria da Serra', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5234, 'Santa Mercedes', 26);
-        INSERT INTO city("id", "name", "state_id") VALUES (5235, 'Santa Rita d' Oeste', 26);
+        INSERT INTO city("id", "name", "state_id") VALUES (5235, 'Santa Rita d\`Oeste', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5236, 'Santa Rita do Passa Quatro', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5237, 'Santa Rosa de Viterbo', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5238, 'Santa Salete', 26);
@@ -5262,7 +5261,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
         INSERT INTO city("id", "name", "state_id") VALUES (5256, 'São João da Boa Vista', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5257, 'São João das Duas Pontes', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5258, 'São João de Iracema', 26);
-        INSERT INTO city("id", "name", "state_id") VALUES (5259, 'São João do Pau d' Alho', 26);
+        INSERT INTO city("id", "name", "state_id") VALUES (5259, 'São João do Pau d\`Alho', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5260, 'São Joaquim da Barra', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5261, 'São José da Bela Vista', 26);
         INSERT INTO city("id", "name", "state_id") VALUES (5262, 'São José do Barreiro', 26);
@@ -5383,7 +5382,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
         INSERT INTO city("id", "name", "state_id") VALUES (5377, 'Itabaiana', 25);
         INSERT INTO city("id", "name", "state_id") VALUES (5378, 'Itabaianinha', 25);
         INSERT INTO city("id", "name", "state_id") VALUES (5379, 'Itabi', 25);
-        INSERT INTO city("id", "name", "state_id") VALUES (5380, 'Itaporanga d' Ajuda', 25);
+        INSERT INTO city("id", "name", "state_id") VALUES (5380, 'Itaporanga d\`Ajuda', 25);
         INSERT INTO city("id", "name", "state_id") VALUES (5381, 'Japaratuba', 25);
         INSERT INTO city("id", "name", "state_id") VALUES (5382, 'Japoatã', 25);
         INSERT INTO city("id", "name", "state_id") VALUES (5383, 'Lagarto', 25);
@@ -5523,7 +5522,7 @@ export class InsertInCity1698463534078 implements MigrationInterface {
         INSERT INTO city("id", "name", "state_id") VALUES (5517, 'Palmeirópolis', 27);
         INSERT INTO city("id", "name", "state_id") VALUES (5518, 'Paraíso do Tocantins', 27);
         INSERT INTO city("id", "name", "state_id") VALUES (5519, 'Paranã', 27);
-        INSERT INTO city("id", "name", "state_id") VALUES (5520, 'Pau d' Arco', 27);
+        INSERT INTO city("id", "name", "state_id") VALUES (5520, 'Pau d\`Arco', 27);
         INSERT INTO city("id", "name", "state_id") VALUES (5521, 'Pedro Afonso', 27);
         INSERT INTO city("id", "name", "state_id") VALUES (5522, 'Peixe', 27);
         INSERT INTO city("id", "name", "state_id") VALUES (5523, 'Pequizeiro', 27);
