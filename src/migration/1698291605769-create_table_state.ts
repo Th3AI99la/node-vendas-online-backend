@@ -5,10 +5,10 @@ export class CreateTableState1698291605769 implements MigrationInterface {
     queryRunner.query(`
 
     CREATE TABLE public.state (
-        id INTEGER NOT NULL,
+      id INTEGER NOT NULL,
 	    name VARCHAR NOT NULL,
 	    createdat timestamp without time zone DEFAULT NOW() NOT NULL,
-        updatedat timestamp without time zone DEFAULT NOW() NOT NULL,
+      updatedat timestamp without time zone DEFAULT NOW() NOT NULL,
 	    primary key (id)
 );
 
